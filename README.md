@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I’m **Samip Aryal**
 
-<!--
-**itssamiparyal/itssamiparyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer in Progress | CSIT 1st-Semester Student**
 
-Here are some ideas to get you started:
+🌍 *Based in Sifal, Kathmandu, Nepal*
+🧑‍💻 *I’m 18 years old and passionate about building modern web applications.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 GitHub: [https://github.com/itssamiparyal](https://github.com/itssamiparyal) ([GitHub][1])
+🌐 Website: [https://samiparyal.netlify.app/](https://samiparyal.netlify.app/) ([GitHub][1])
+🔗 LinkedIn / Instagram: see profile links on GitHub ([GitHub][1])
+
+
+
+## 🚀 About Me
+
+I’m currently a **1st-semester CSIT student** with a strong interest in **Full-Stack Development**. I enjoy learning and building real-world projects using modern web technologies. I’m especially focused on:
+
+✨ Frontend: **HTML, CSS, JavaScript, React**
+⚙️ Backend: **Python, Django**
+📚 Always learning new tools and technologies
+
+My goal is to become a **skilled full-stack developer** by creating responsive, clean, and user-friendly web applications.
+
+
+## 💻 What I’m Learning
+
+Right now, I’m learning and improving skills in:
+
+✔ HTML & CSS
+✔ JavaScript (vanilla & projects)
+✔ React.js (Frontend)
+✔ Django (Python Backend)
+✔ Building real projects for practical experience
+
+I love solving problems with code and pushing myself to learn something new every day!
+
+
+
+## 🛠️ Projects
+
+Here are some projects you’ll find on my GitHub:
+(*Explore them in my repositories section!*)
+
+* **html-css-projects** — Web pages made with HTML & CSS ([[GitHub][1]](https://github.com/itssamiparyal/html-css-projects))
+* **Programming-Practice** — Python & notebook practice code ([[GitHub][1]](https://github.com/itssamiparyal/Programming-Practice))
+* **java-projects** — Java applications from learning phase ([[GitHub][1]](https://github.com/itssamiparyal/java-projects))
+* **c-learning** — C programming practice ([[GitHub][1]](https://github.com/itssamiparyal/c-learning))
+* **java-script-learning** — JavaScript practice & experiments ([[GitHub][1]](https://github.com/itssamiparyal/java-script-learning))
+
+---
+
+## 📫 How to Reach Me
+
+Feel free to connect with me on:
+
+📌 **LinkedIn** – via my GitHub profile (https://www.linkedin.com/in/samip-aryal-18ab8a392/)
+📌 **Instagram** – via my GitHub profile (https://www.instagram.com/its.samiparyal/)
+📌 **Personal website** – [https://samiparyal.netlify.app/](https://samiparyal.netlify.app/) ([GitHub][1])
+
+I’m open to collaboration, learning opportunities, and building interesting projects!
+
+
+
+⭐ *Thanks for visiting my GitHub profile!*
+Keep coding 💻🌟
+
+
