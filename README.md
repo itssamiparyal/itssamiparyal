@@ -41,11 +41,11 @@ I love solving problems with code and pushing myself to learn something new ever
 Here are some projects you’ll find on my GitHub:
 (*Explore them in my repositories section!*)
 
-* **html-css-projects** — Web pages made with HTML & CSS ([[GitHub][1]](https://github.com/itssamiparyal/html-css-projects))
-* **Programming-Practice** — Python & notebook practice code ([[GitHub][1]](https://github.com/itssamiparyal/Programming-Practice))
-* **java-projects** — Java applications from learning phase ([[GitHub][1]](https://github.com/itssamiparyal/java-projects))
-* **c-learning** — C programming practice ([[GitHub][1]](https://github.com/itssamiparyal/c-learning))
-* **java-script-learning** — JavaScript practice & experiments ([[GitHub][1]](https://github.com/itssamiparyal/java-script-learning))
+* **html-css-projects** — Web pages made with HTML & CSS (https://github.com/itssamiparyal/html-css-projects)
+* **Programming-Practice** — Python & notebook practice code (https://github.com/itssamiparyal/Programming-Practice)
+* **java-projects** — Java applications from learning phase (https://github.com/itssamiparyal/java-projects)
+* **c-learning** — C programming practice (https://github.com/itssamiparyal/c-learning)
+* **java-script-learning** — JavaScript practice & experiments (https://github.com/itssamiparyal/java-script-learning)
 
 ---
 
