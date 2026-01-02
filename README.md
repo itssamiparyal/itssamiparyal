@@ -7,7 +7,7 @@
 
 🔗 GitHub: [https://github.com/itssamiparyal](https://github.com/itssamiparyal)
 🌐 Website: [https://samiparyal.netlify.app/](https://samiparyal.netlify.app/) 
-🔗 LinkedIn / Instagram: see profile links on GitHub ([GitHub][1])
+🔗 LinkedIn / Instagram: https://www.linkedin.com/in/samip-aryal-18ab8a392/ | https://www.instagram.com/its.samiparyal/
 
 
 
@@ -47,7 +47,7 @@ Here are some projects you’ll find on my GitHub:
 * **c-learning** — C programming practice (https://github.com/itssamiparyal/c-learning)
 * **java-script-learning** — JavaScript practice & experiments (https://github.com/itssamiparyal/java-script-learning)
 
----
+
 
 ## 📫 How to Reach Me
 
