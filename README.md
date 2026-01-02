@@ -55,7 +55,7 @@ Feel free to connect with me on:
 
 📌 **LinkedIn** – via my GitHub profile (https://www.linkedin.com/in/samip-aryal-18ab8a392/)
 📌 **Instagram** – via my GitHub profile (https://www.instagram.com/its.samiparyal/)
-📌 **Personal website** – [https://samiparyal.netlify.app/](https://samiparyal.netlify.app/) ([GitHub][1])
+📌 **Personal website** – https://samiparyal.netlify.app/
 
 I’m open to collaboration, learning opportunities, and building interesting projects!
 
