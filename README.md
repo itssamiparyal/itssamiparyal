@@ -5,8 +5,8 @@
 🌍 *Based in Sifal, Kathmandu, Nepal*
 🧑‍💻 *I’m 18 years old and passionate about building modern web applications.*
 
-🔗 GitHub: [https://github.com/itssamiparyal](https://github.com/itssamiparyal) ([GitHub][1])
-🌐 Website: [https://samiparyal.netlify.app/](https://samiparyal.netlify.app/) ([GitHub][1])
+🔗 GitHub: [https://github.com/itssamiparyal](https://github.com/itssamiparyal)
+🌐 Website: [https://samiparyal.netlify.app/](https://samiparyal.netlify.app/) 
 🔗 LinkedIn / Instagram: see profile links on GitHub ([GitHub][1])
 
 
