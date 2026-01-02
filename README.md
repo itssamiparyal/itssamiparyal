@@ -41,11 +41,11 @@ I love solving problems with code and pushing myself to learn something new ever
 Here are some projects you’ll find on my GitHub:
 (*Explore them in my repositories section!*)
 
-* **html-css-projects** — Web pages made with HTML & CSS (https://github.com/itssamiparyal/html-css-projects)
-* **Programming-Practice** — Python & notebook practice code (https://github.com/itssamiparyal/Programming-Practice)
-* **java-projects** — Java applications from learning phase (https://github.com/itssamiparyal/java-projects)
-* **c-learning** — C programming practice (https://github.com/itssamiparyal/c-learning)
-* **java-script-learning** — JavaScript practice & experiments (https://github.com/itssamiparyal/java-script-learning)
+* **html-css-projects** — Web pages made with HTML & CSS https://github.com/itssamiparyal/html-css-projects
+* **Programming-Practice** — Python & notebook practice code https://github.com/itssamiparyal/Programming-Practice
+* **java-projects** — Java applications from learning phase https://github.com/itssamiparyal/java-projects
+* **c-learning** — C programming practice https://github.com/itssamiparyal/c-learning
+* **java-script-learning** — JavaScript practice & experiments https://github.com/itssamiparyal/java-script-learning
 
 
 
@@ -53,8 +53,8 @@ Here are some projects you’ll find on my GitHub:
 
 Feel free to connect with me on:
 
-📌 **LinkedIn** – via my GitHub profile (https://www.linkedin.com/in/samip-aryal-18ab8a392/)
-📌 **Instagram** – via my GitHub profile (https://www.instagram.com/its.samiparyal/)
+📌 **LinkedIn** – via my GitHub profile https://www.linkedin.com/in/samip-aryal-18ab8a392/
+📌 **Instagram** – via my GitHub profile https://www.instagram.com/its.samiparyal/
 📌 **Personal website** – https://samiparyal.netlify.app/
 
 I’m open to collaboration, learning opportunities, and building interesting projects!
