@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Samip Aryal**
 
-**CSIT Student | Aspiring  Developer**
+**CSIT Student | Aspiring Web Developer**
 
 🌍 Kathmandu, Nepal
 💻 Passionate about building modern web applications.
@@ -11,12 +11,11 @@
 
 ## 🚀 About Me
 
-I'm a **2nd-semester CSIT student** learning **Full-Stack Development**. I enjoy creating responsive, user-friendly web applications and continuously improving my skills.
+I'm a **2nd-semester CSIT student** learning **Web Development**. I enjoy creating responsive, user-friendly web applications and continuously improving my skills.
 
 **Tech Stack:**
 
-* Frontend: HTML, CSS, JavaScript, React
-* Backend: Python, Django
+* Frontend: HTML, CSS, JavaScript
 
 
 ## 📫 Connect With Me
